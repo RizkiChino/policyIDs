@@ -1,0 +1,10 @@
+[
+  {
+    "project": "Test Project",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  }
+]
